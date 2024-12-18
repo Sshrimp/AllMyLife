@@ -10,8 +10,21 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxtjs/supabase": "^1.4.3",
+    "@nuxtjs/svg-sprite": "^1.0.2",
+    "@vant/nuxt": "^1.0.6",
+    "cheerio": "^1.0.0",
+    "crawlee": "^3.12.1",
+    "got-scraping": "^4.0.8",
     "nuxt": "^3.14.1592",
+    "playwright": "^1.49.1",
+    "puppeteer": "^23.10.4",
+    "sass": "^1.83.0",
+    "vant": "^4.9.10",
     "vue": "latest",
     "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.2"
   }
 }

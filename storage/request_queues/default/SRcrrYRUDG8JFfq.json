@@ -1,0 +1,9 @@
+{
+	"id": "SRcrrYRUDG8JFfq",
+	"json": "{\"id\":\"SRcrrYRUDG8JFfq\",\"url\":\"https://movie.douban.com/subject_search?search_text=123\",\"loadedUrl\":\"https://movie.douban.com/subject_search?search_text=123\",\"uniqueKey\":\"https://movie.douban.com/subject_search?search_text=123\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-12-17T04:59:31.659Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://movie.douban.com/subject_search?search_text=123",
+	"url": "https://movie.douban.com/subject_search?search_text=123"
+}
